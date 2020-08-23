@@ -1,3 +1,3 @@
 # TheLickIn13Keys-pack
 
-A mashup of multiple texurepacks and original textures
+A mashup of multiple minecraft texurepacks and original textures
